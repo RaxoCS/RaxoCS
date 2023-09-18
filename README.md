@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working with Unreal Engine and Unity in Dragon's Gleam Company.<br>👯 I’m looking to collaborate on Game Industry.<br>🤝 I’m looking for help with Game Development<br>🌱 I’m currently learning Game Programming, Unity 3D, and Unity VR.<br>⚡ Fun fact: My favourite video game saga is The Legend Of Zelda<br>
+🔭 I’m currently working with Unreal Engine and Unity in Dragon's Gleam Company.<br>👯 I’m looking to collaborate on Game Industry.<br>🤝 I’m looking for help with Game Development<br>🌱 I’m currently learning Game Programming, Unity 3D, and Unreal Engine.<br>⚡ Fun fact: My favourite video game saga is The Legend Of Zelda<br>
 
 
 ## 🌐 Socials:
