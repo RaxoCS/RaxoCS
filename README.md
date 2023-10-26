@@ -1,4 +1,6 @@
 # 💫 About Me:
+Software engineering student and game dev enthusiast with experience in 3D and 2D game development that provides solutions to various problems, manipulating different technologies and always willing to acquire new knowledge.
+
 🔭 I’m currently working on Dragon's Gleam<br>👯 I’m looking to collaborate on Game Industry<br>🤝 I’m looking for help with Game and Gameplay Development<br>🌱 I’m currently learning Unreal Engine and Unity 3D<br>⚡ Fun fact My favourite video game saga is The Legend Of Zelda, specifically Skyward Sword
 
 
